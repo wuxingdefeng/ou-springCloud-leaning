@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: ou-eureka
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    registerWithEureka: false  #false:不作为一个客户端注册到注册中心
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#    register-with-eureka: false
+#    fetch-registry: false
+  server:
+        enable-self-preservation: true			# 设为false，关闭自我保护
+        eviction-interval-timer-in-ms: 60000
+server:
+  port: 8761

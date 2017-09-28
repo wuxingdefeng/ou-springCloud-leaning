@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ou-config/ou-config.iml" filepath="$PROJECT_DIR$/ou-config/ou-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ou-eureka/ou-eureka.iml" filepath="$PROJECT_DIR$/ou-eureka/ou-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ou-gate/ou-gate.iml" filepath="$PROJECT_DIR$/ou-gate/ou-gate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ou-springCloud.iml" filepath="$PROJECT_DIR$/ou-springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ou-uc/ou-uc.iml" filepath="$PROJECT_DIR$/ou-uc/ou-uc.iml" />
+    </modules>
+  </component>
+</project>
