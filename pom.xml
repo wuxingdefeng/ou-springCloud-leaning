@@ -13,6 +13,7 @@
         <module>ou-uc</module>
         <module>ou-gate</module>
         <module>ou-config</module>
+        <module>ou-common</module>
     </modules>
 
     <parent>
