@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ou-common/ou-common.iml" filepath="$PROJECT_DIR$/ou-common/ou-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ou-config/ou-config.iml" filepath="$PROJECT_DIR$/ou-config/ou-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/ou-eureka/ou-eureka.iml" filepath="$PROJECT_DIR$/ou-eureka/ou-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/ou-gate/ou-gate.iml" filepath="$PROJECT_DIR$/ou-gate/ou-gate.iml" />

@@ -23,7 +23,6 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ou-common" />
         <module name="ou-config" />
         <module name="ou-eureka" />
         <module name="ou-gate" />
@@ -33,11 +32,11 @@
     <bytecodeTargetLevel>
       <module name="eureka" target="1.8" />
       <module name="ou-common" target="1.8" />
+      <module name="ou-commons" target="1.8" />
       <module name="ou-config" target="1.8" />
       <module name="ou-eureka" target="1.8" />
       <module name="ou-gate" target="1.8" />
       <module name="ou-springCloud" target="1.8" />
-      <module name="ou-test" target="1.5" />
       <module name="ou-uc" target="1.8" />
     </bytecodeTargetLevel>
   </component>
