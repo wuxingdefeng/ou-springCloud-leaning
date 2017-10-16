@@ -27,6 +27,7 @@
         <module name="ou-eureka" />
         <module name="ou-gate" />
         <module name="ou-uc" />
+        <module name="ou_common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +39,7 @@
       <module name="ou-gate" target="1.8" />
       <module name="ou-springCloud" target="1.8" />
       <module name="ou-uc" target="1.8" />
+      <module name="ou_common" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
