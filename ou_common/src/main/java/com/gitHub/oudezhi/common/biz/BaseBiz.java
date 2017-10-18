@@ -17,7 +17,7 @@ import java.util.Map;
  * Created by Administrator on 2017/10/16.
  */
 public abstract class BaseBiz<M extends Mapper<T>,T>{
-      @Autowired
+    @Autowired
     protected M mapper;
 
     public void setMapper(M mapper) {
