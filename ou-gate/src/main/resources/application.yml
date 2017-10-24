@@ -13,4 +13,3 @@ zuul:
     uc:
       path: /uc/**
       serviceId: ou-uc
-
